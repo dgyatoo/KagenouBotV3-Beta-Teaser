@@ -3,9 +3,9 @@
         ""
     ],
     "Prefix": [
-        "#"
+        "/"
     ],
-    "botName": "",
+    "botName": "Yato-Ai",
     
     "mongoUri": ""
 }
